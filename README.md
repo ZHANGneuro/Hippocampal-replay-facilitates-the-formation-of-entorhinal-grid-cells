@@ -8,3 +8,5 @@ by Bo Zhang and Jia Liu
 
 
 
+![alt-text](https://github.com/ZHANGneuro/Hippocampal-replay-facilitates-the-formation-of-entorhinal-grid-cells/blob/main/video_1_AdobeExpress.gif)
+
