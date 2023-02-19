@@ -7,7 +7,7 @@ The phenomenon of neuronal replay, the sequential reactivation of hippocampal pl
 
 
 
-`I will add descriptions, codes, and gif figures soon! `<br />
+`I will improve the descriptions soon! `<br />
 
 
 
