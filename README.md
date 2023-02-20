@@ -25,9 +25,9 @@ We found a significant enhancement of grid periodicity particularly in smaller g
 
 
 
+<img src="[/images/output/video1.gif](https://github.com/ZHANGneuro/Hippocampal-replay-facilitates-the-formation-of-entorhinal-grid-cells/blob/main/video_1_AdobeExpress.gif)" width="250" height="250"/>
 
 
 
-
-![alt-text](https://github.com/ZHANGneuro/Hippocampal-replay-facilitates-the-formation-of-entorhinal-grid-cells/blob/main/video_1_AdobeExpress.gif)
+<!-- ![alt-text]() -->
 
