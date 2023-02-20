@@ -1,4 +1,4 @@
-`I am building the repository now! `<br />
+# `I am building the repository now! `<br />
 
 
 
@@ -9,7 +9,7 @@ link: https://www.biorxiv.org/content/10.1101/2023.02.19.529130v1
 This work shows the significant effect of reversed neuronal replay in facilitating the pattern formation of grid cells with smaller scales underlying the simulation of spin-glass model. The finding may suggest the role of reverse replay in constructing a high-resolution cognitive map.
 
 
-My programming environment for grid cell simulation:
+## My programming environment for grid cell simulation:
 python 3.9.16
 pytorch 1.13.1
 umap-learn 0.5.3
