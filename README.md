@@ -1,6 +1,3 @@
-# `I am building the repository now! `<br />
-
-
 The repository collects the code of python for grid cell simulation and .NET code for virtual navigation simulation in the manuscript entitled "`Hippocampal replay facilitates the formation of entorhinal grid cells`". <br />
 
 bioRxiv link: https://www.biorxiv.org/content/10.1101/2023.02.19.529130v1 <br />
