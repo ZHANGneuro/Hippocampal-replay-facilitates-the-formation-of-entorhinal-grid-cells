@@ -35,8 +35,6 @@ scripts in the root folder are as following:
 </p>
 
 <br />
-<br />
-
 ## Spikes of a grid cell with animal trajectory <br />
 The animal trajectory was open-accessed by Hafting et al (2005), link https://www.ntnu.edu/kavli/research/grid-cell-data <br />
 
@@ -44,7 +42,6 @@ The animal trajectory was open-accessed by Hafting et al (2005), link https://ww
   <img src="https://github.com/ZHANGneuro/Hippocampal-replay-facilitates-the-formation-of-entorhinal-grid-cells/blob/main/video_2_firing_rate_git.gif" width="350" height="350" loop=infinite/>
 </p>
 <br />
-
 
 ### Reference <br />
 Fuhs, M. C., & Touretzky, D. S. (2006). A spin glass model of path integration in rat medial entorhinal cortex. Journal of Neuroscience, 26(16), 4266-4276.
