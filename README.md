@@ -40,6 +40,9 @@ The animal trajectory was open-accessed by Hafting et al (2005), link https://ww
   <img src="https://github.com/ZHANGneuro/Hippocampal-replay-facilitates-the-formation-of-entorhinal-grid-cells/blob/main/video_2_firing_rate_git.gif" width="350" height="350" loop=infinite/>
 </p>
 
+folder `module_spin_class.py` collects the .NET script (used for performing virtual navigation in Unity), and prefab of lines (used for highlighting the animal trajectories). 
+
+
 
 ### Reference <br />
 Fuhs, M. C., & Touretzky, D. S. (2006). A spin glass model of path integration in rat medial entorhinal cortex. Journal of Neuroscience, 26(16), 4266-4276.
