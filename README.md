@@ -18,10 +18,11 @@ umap-learn `0.5.3` <br />
 unity `2021.3.18f1` 
 
 
-## the scripts
-In root folder:<br />
-`module_spin_class.py` is the function of spin-glass model<br />
-`module_recurrent_weight.py` is the function for predefining excitaiton-inhibition weight for multi grid scales<br />
+## the scripts<br />
+scripts in the root folder are as following:
+<br />
+- Item 1 `module_spin_class.py` is the function of spin-glass model<br />
+- Item 2 `module_recurrent_weight.py` is the function for predefining excitaiton-inhibition weight for multi grid scales<br />
 `module_plot_grid_cells.py` is the function for ploting the grid patterns<br />
 folder `models` collects the scripts for the analysis mentioned in the manuscript.<br />
 folder `module_spin_class.py` collects the .NET script (used for performing virtual navigation in Unity), and prefab of lines (used for highlighting the animal trajectories). 
