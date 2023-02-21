@@ -11,7 +11,7 @@ pytorch `1.13.1` <br />
 ripser++ `1.1.2` <br />
 umap-learn `0.5.3` <br />
 
-## .NET environment for grid cell simulation: <br />
+## .NET environment for virtual navigation: <br />
 unity `2021.3.18f1` 
 
 
