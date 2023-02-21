@@ -19,7 +19,7 @@ unity `2021.3.18f1` <br />
 
 
 
-
+## Formation of grid pattern by spin-glass model <br />
 <p align="center">
   <img src="https://github.com/ZHANGneuro/Hippocampal-replay-facilitates-the-formation-of-entorhinal-grid-cells/blob/main/video_1_grid_pattern_git.gif" width="700" height="300"/>
 </p>
@@ -27,6 +27,13 @@ unity `2021.3.18f1` <br />
 <br />
 <br />
 
+## Spikes of a grid cell with animal trajectory <br />
+The animal trajectory was open-accessed by Hafting et al (2005), link https://www.ntnu.edu/kavli/research/grid-cell-data <br />
+
 <p align="center">
   <img src="https://github.com/ZHANGneuro/Hippocampal-replay-facilitates-the-formation-of-entorhinal-grid-cells/blob/main/video_2_firing_rate_git.gif" width="350" height="350"/>
 </p>
+
+
+### Reference <br />
+Hafting, T., Fyhn, M., Molden, S., Moser, M. B., & Moser, E. I. (2005). Microstructure of a spatial map in the entorhinal cortex. Nature, 436(7052), 801-806.<br />
