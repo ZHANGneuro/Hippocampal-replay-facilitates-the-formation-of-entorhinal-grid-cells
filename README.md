@@ -21,14 +21,14 @@ unity `2021.3.18f1`
 ## the scripts<br />
 scripts in the root folder are as following:
 <br />
-- Item `module_spin_class.py` is the function of spin-glass model<br />
-- Item `module_recurrent_weight.py` is the function for predefining excitaiton-inhibition weight for multi grid scales<br />
-- Item `module_plot_grid_cells.py` is the function for ploting the grid patterns<br />
+- `module_spin_class.py` is the function of spin-glass model<br />
+- `module_recurrent_weight.py` is the function for predefining excitaiton-inhibition weight for multi grid scales<br />
+- `module_plot_grid_cells.py` is the function for ploting the grid patterns<br />
 - folder `models` collects the scripts for the analysis mentioned in the manuscript.<br />
-- Item 5 folder `module_spin_class.py` collects the .NET script (used for performing virtual navigation in Unity), and prefab of lines (used for highlighting the animal trajectories). 
-- Item 6 folder `models` collects the scripts for the analysis mentioned in the manuscript.<br />
-- Item 7 prefab of Gorilla was contained by the package `Low Poly Animated Animals` by polyperfect, which could be purchased from Unity Asset Store
-- Item 8 prefab of trees, stones, and tree trunks were contained by the package `Free Low Poly Nature Forest` by Pure Poly, which could be obtained for free from Unity Asset Store
+- folder `module_spin_class.py` collects the .NET script (used for performing virtual navigation in Unity), and prefab of lines (used for highlighting the animal trajectories). 
+- folder `models` collects the scripts for the analysis mentioned in the manuscript.<br />
+- prefab of Gorilla was contained by the package `Low Poly Animated Animals` by polyperfect, which could be purchased from Unity Asset Store
+- prefab of trees, stones, and tree trunks were contained by the package `Free Low Poly Nature Forest` by Pure Poly, which could be obtained for free from Unity Asset Store
 
 <br /><br />
 
@@ -36,8 +36,6 @@ scripts in the root folder are as following:
 <p align="center">
   <img src="https://github.com/ZHANGneuro/Hippocampal-replay-facilitates-the-formation-of-entorhinal-grid-cells/blob/main/video_1_grid_pattern_git.gif" width="700" height="300" loop=infinite/>
 </p>
-
-
 
 <br />
 <br />
