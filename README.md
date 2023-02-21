@@ -17,6 +17,18 @@ umap-learn `0.5.3` <br />
 ## .NET environment for grid cell simulation: <br />
 unity `2021.3.18f1` 
 
+
+## the scripts
+In root folder:<br />
+`module_spin_class.py` is the function of spin-glass model<br />
+`module_recurrent_weight.py` is the function for predefining excitaiton-inhibition weight for multi grid scales<br />
+`module_plot_grid_cells.py` is the function for ploting the grid patterns<br />
+folder `models` collects the scripts for the analysis mentioned in the manuscript.<br />
+folder `module_spin_class.py` collects the .NET script (used for performing virtual navigation in Unity), and prefab of lines (used for highlighting the animal trajectories). 
+folder `models` collects the scripts for the analysis mentioned in the manuscript.<br />
+prefab of Gorilla was contained by the package `Low Poly Animated Animals` by polyperfect, which could be purchased from Unity Asset Store
+prefab of trees, stones, and tree trunks were contained by the package `Free Low Poly Nature Forest` by Pure Poly, which could be obtained for free from Unity Asset Store
+
 <br /><br />
 
 ## Formation of grid pattern by spin-glass model <br />
@@ -24,11 +36,7 @@ unity `2021.3.18f1`
   <img src="https://github.com/ZHANGneuro/Hippocampal-replay-facilitates-the-formation-of-entorhinal-grid-cells/blob/main/video_1_grid_pattern_git.gif" width="700" height="300" loop=infinite/>
 </p>
 
-In root folder:<br />
-`module_spin_class.py` function of spin-glass model<br />
-`module_recurrent_weight.py` function of predefined excitaiton-inhibition weight for multi grid scales<br />
-`module_plot_grid_cells.py` function of ploting the grid patterns<br />
-scripts in folder `models` are the scripts of analysis used in the manuscript.<br />
+
 
 <br />
 <br />
@@ -39,9 +47,7 @@ The animal trajectory was open-accessed by Hafting et al (2005), link https://ww
 <p align="center">
   <img src="https://github.com/ZHANGneuro/Hippocampal-replay-facilitates-the-formation-of-entorhinal-grid-cells/blob/main/video_2_firing_rate_git.gif" width="350" height="350" loop=infinite/>
 </p>
-
-folder `module_spin_class.py` collects the .NET script (used for performing virtual navigation in Unity), and prefab of lines (used for highlighting the animal trajectories). 
-
+<br />
 
 
 ### Reference <br />
