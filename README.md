@@ -23,12 +23,12 @@ scripts in the root folder are as following:
 <br />
 - Item 1 `module_spin_class.py` is the function of spin-glass model<br />
 - Item 2 `module_recurrent_weight.py` is the function for predefining excitaiton-inhibition weight for multi grid scales<br />
-`module_plot_grid_cells.py` is the function for ploting the grid patterns<br />
-folder `models` collects the scripts for the analysis mentioned in the manuscript.<br />
-folder `module_spin_class.py` collects the .NET script (used for performing virtual navigation in Unity), and prefab of lines (used for highlighting the animal trajectories). 
-folder `models` collects the scripts for the analysis mentioned in the manuscript.<br />
-prefab of Gorilla was contained by the package `Low Poly Animated Animals` by polyperfect, which could be purchased from Unity Asset Store
-prefab of trees, stones, and tree trunks were contained by the package `Free Low Poly Nature Forest` by Pure Poly, which could be obtained for free from Unity Asset Store
+- Item 3 `module_plot_grid_cells.py` is the function for ploting the grid patterns<br />
+- Item 4 folder `models` collects the scripts for the analysis mentioned in the manuscript.<br />
+- Item 5 folder `module_spin_class.py` collects the .NET script (used for performing virtual navigation in Unity), and prefab of lines (used for highlighting the animal trajectories). 
+- Item 6 folder `models` collects the scripts for the analysis mentioned in the manuscript.<br />
+- Item 7 prefab of Gorilla was contained by the package `Low Poly Animated Animals` by polyperfect, which could be purchased from Unity Asset Store
+- Item 8 prefab of trees, stones, and tree trunks were contained by the package `Free Low Poly Nature Forest` by Pure Poly, which could be obtained for free from Unity Asset Store
 
 <br /><br />
 
