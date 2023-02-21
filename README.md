@@ -27,7 +27,7 @@ scripts in the root folder are as following:
 - prefab of Gorilla was contained by the package `Low Poly Animated Animals` by polyperfect, which could be purchased from Unity Asset Store
 - prefab of trees, stones, and tree trunks were contained by the package `Free Low Poly Nature Forest` by Pure Poly, which could be obtained for free from Unity Asset Store
 
-<br /><br />
+<br />
 
 ## Formation of grid pattern by spin-glass model <br />
 <p align="center">
@@ -35,6 +35,7 @@ scripts in the root folder are as following:
 </p>
 
 <br />
+
 ## Spikes of a grid cell with animal trajectory <br />
 The animal trajectory was open-accessed by Hafting et al (2005), link https://www.ntnu.edu/kavli/research/grid-cell-data <br />
 
