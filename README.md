@@ -1,6 +1,6 @@
-The repository collects the code of python for grid cell simulation and .NET code for virtual navigation simulation in the manuscript entitled "`Hippocampal replay facilitates the formation of entorhinal grid cells`". <br />
+The repository collects the code of python for grid cell simulation and .NET code for virtual navigation simulation in the manuscript entitled "`Experience replay facilitates the formation of the hexagonal pattern of grid cells`". <br />
 
-bioRxiv link: https://www.biorxiv.org/content/10.1101/2023.02.19.529130v1 <br />
+bioRxiv link: https://www.biorxiv.org/content/10.1101/2023.02.19.529130v2 <br />
 
 This work shows a significant effect of reversed neuronal replay in facilitating the pattern formation of grid cells for smaller grid scales underlying the computational simulation using spin-glass model (Fuhs and Touretzky, 2006). The finding may suggest the role of reverse replay in constructing a high-resolution cognitive map. <br /><br />
 
