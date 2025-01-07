@@ -1,9 +1,8 @@
-The repository collects the code of python for grid cell simulation and .NET code for virtual navigation simulation in the manuscript entitled "`Experience replay facilitates the formation of the hexagonal pattern of grid cells`". <br />
+This repository collects the python code for grid cell simulation and .NET code for virtual navigation simulation in the manuscript entitled "`Experience replay facilitates the formation of the hexagonal pattern of grid cells`". <br />
 
 bioRxiv link: https://www.biorxiv.org/content/10.1101/2023.02.19.529130v2 <br />
 
-This work shows a significant effect of reversed neuronal replay in facilitating the pattern formation of grid cells for smaller grid scales underlying the computational simulation using spin-glass model (Fuhs and Touretzky, 2006). The finding may suggest the role of reverse replay in constructing a high-resolution cognitive map. <br /><br />
-
+This work shows a significant effect of place cell reverse replay on the formation of multi-scale hexagonal patterns of grid cells using continuous attractor model (CAN) (Fuhs and Touretzky, 2006). The findings may suggest the potential role of reverse replay in maintaining  periodic representation of space and rapidly constructing a high-resolution cognitive map. <br /><br />
 
 ## Python environment for grid cell simulation: <br />
 python `3.9.16` <br />
@@ -14,19 +13,15 @@ umap-learn `0.5.3` <br />
 ## .NET environment for virtual navigation: <br />
 unity `2021.3.18f1` 
 
-
-## the scripts<br />
+## codes <br />
 scripts in the root folder are as following:
 <br />
-- `module_spin_class.py` is the function of spin-glass model<br />
-- `module_recurrent_weight.py` is the function for predefining excitaiton-inhibition weight for multi grid scales<br />
-- `module_plot_grid_cells.py` is the function for ploting the grid patterns<br />
-- folder `models` collects the scripts for the analysis mentioned in the manuscript.<br />
-- folder `module_spin_class.py` collects the .NET script (used for performing virtual navigation in Unity), and prefab of lines (used for highlighting the animal trajectories). 
-- folder `models` collects the scripts for the analysis mentioned in the manuscript.<br />
-- prefab of Gorilla was contained by the package `Low Poly Animated Animals` by polyperfect, which could be purchased from Unity Asset Store
-- prefab of trees, stones, and tree trunks were contained by the package `Free Low Poly Nature Forest` by Pure Poly, which could be obtained for free from Unity Asset Store
-
+- `module_spin_class.py` is the function of CAN model<br />
+- `module_recurrent_weight.py` is the function for generating recurrent excitaiton-inhibition weight required for CAN simualtion (run this code first) <br />
+- `module_plot_grid_cells.py` is the function for ploting the generated hexagonal patterns<br />
+- folder `models` collects the scripts for CAN simulations during limited ("*quick_test*") and extended ("*global_direction*") environmental exploration.<br />
+- folder `Assets` collects the .NET script (used for performing virtual navigation in Unity), and prefab of lines (used for highlighting the animal trajectories).
+  
 <br />
 
 ## Formation of grid pattern by spin-glass model <br />
