@@ -19,8 +19,12 @@ scripts in the root folder are as following:
 - `module_spin_class.py` is the function of CAN model<br />
 - `module_recurrent_weight.py` is the function for generating recurrent excitaiton-inhibition weight required for CAN simualtion (run this code first) <br />
 - `module_plot_grid_cells.py` is the function for ploting the generated hexagonal patterns<br />
-- folder `models` collects the scripts for CAN simulations during limited ("*quick_test*") and extended ("*global_direction*") environmental exploration.<br />
-- folder `Assets` collects the .NET script (used for performing virtual navigation in Unity), and prefab of lines (used for highlighting the animal trajectories).
+- folder `models` includes the scripts for four CAN models as following:
+  1. "model_quick_test_original_CAN": CAN model, without hippocampal replay, limited number of direction (3 directions).
+  2. "model_quick_test_original_CAN_with_Reverse_replay": CAN model, with hippocampal replay, limited number of direction (3 directions).
+  3. "model_global_direction_no_replay": CAN model, without hippocampal replay, extended number of direction (180 directions).
+  4. "model_global_direction_reverse_replay": CAN model, with hippocampal replay, extended number of direction (180 directions).
+- folder `Assets` includes the .NET script (used for performing virtual navigation in Unity), and prefab of lines (used for highlighting the animal trajectories).
   
 <br />
 
