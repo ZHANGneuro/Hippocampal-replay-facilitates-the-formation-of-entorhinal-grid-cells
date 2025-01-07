@@ -7,8 +7,8 @@ This work shows a significant effect of place cell reverse replay on the formati
 ## Python environment for grid cell simulation: <br />
 python `3.9.16` <br />
 pytorch `1.13.1` <br />
-ripser++ `1.1.2` <br />
-umap-learn `0.5.3` <br />
+matplotlib `3.9.4` <br />
+scipy `0.16.0` <br />
 
 ## .NET environment for virtual navigation: <br />
 unity `2021.3.18f1` 
