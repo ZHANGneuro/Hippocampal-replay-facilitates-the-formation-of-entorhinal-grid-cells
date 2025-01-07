@@ -27,7 +27,7 @@ scripts in the root folder are as following:
   
 <br />
 
-## Formation of grid pattern by spin-glass model <br />
+## CAN-based simulation of hexagonal pattern of grid cells <br />
 <p align="center">
   <img src="https://github.com/ZHANGneuro/Hippocampal-replay-facilitates-the-formation-of-entorhinal-grid-cells/blob/main/video_1_grid_pattern_git.gif" width="700" height="300" loop=infinite/>
 </p>
